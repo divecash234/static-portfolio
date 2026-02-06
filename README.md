@@ -3,7 +3,7 @@
 A sleek, responsive, and lightweight "Link in Bio" portfolio built with HTML and CSS. This project serves as a centralized hub for all my professional links, social media profiles, and personal projects.
 
 ## 🚀 Live Demo
-[View Live Site](INSERT_YOUR_GITHUB_PAGES_LINK_HERE)
+[View Live Site](https://divecash234.github.io/static-portfolio/)
 
 ## ✨ Features
 - **Responsive Design:** Optimized for mobile, tablet, and desktop views.
